@@ -1,0 +1,27 @@
+body{
+    background-color: #24353f;
+}
+.container{
+    height: 75vh !important;
+
+}
+
+.form-control{
+    background-color: #24353f;
+    color: #fff;
+}
+
+.form-control::placeholder{
+    color: #fff;
+}
+
+.form-control:focus{
+    background-color: #24353f;
+    color: #fff;
+}
+.content{
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, .6)
+}
+.a{
+    cursor: auto;
+}
